@@ -1,0 +1,6 @@
+&pgstar
+
+Grid6_win_flag = .true.
+Abundance_xaxis_name = 'zone'
+
+/ ! end of pgstar namelist
